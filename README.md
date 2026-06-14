@@ -1,167 +1,146 @@
+````md
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4B0082,30:6A0DAD,60:7F00FF,100:1E3A8A&text=Naga%20Gopi%20Rangisetti&fontColor=ffffff&fontSize=45&fontAlignY=40&animation=fadeIn&desc=Software%20Developer%20|%20Robotics%20%26%20AI%20Enthusiast&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,25:240046,50:5A189A,75:7B2CBF,100:3C096C&text=Naga%20Gopi%20Rangisetti&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20Robotics%20%26%20AI%20Enthusiast&descAlignY=58&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Software+Engineer;AI+Enthusiast;Full+Stack+Developer;Building+Modern+Digital+Products" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Sanjay_Ghodawat_University-6A0DAD?style=for-the-badge&logo=academia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GPA-8.2%2F10-4B0082?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Location-India-7F00FF?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=850&lines=Building+Future-Ready+Software;AI+%2F+ML+Explorer;Robotics+Engineering+Enthusiast;Full+Stack+Development+Learner;Creating+Modern+Digital+Experiences" />
 </p>
 
 <p align="center">
   <a href="https://github.com/rangesatti-ux">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/naga-gopi-rangisetti">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/GitHub-rangesatti--ux-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <a href="mailto:rangesatti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/naga-gopi-rangisetti">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://github.com/rangesatti-ux">
-    <img src="https://img.shields.io/badge/Portfolio-GitHub_Profile-7F00FF?style=for-the-badge&logo=githubpages&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-GitHub_Profile-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rangesatti-ux&style=for-the-badge&color=6A0DAD"/>
-  <img src="https://img.shields.io/github/followers/rangesatti-ux?style=for-the-badge&color=7F00FF"/>
-  <img src="https://img.shields.io/github/stars/rangesatti-ux?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=4B0082"/>
+  <img src="https://komarev.com/ghpvc/?username=rangesatti-ux&style=for-the-badge&color=7B2CBF"/>
+  <img src="https://img.shields.io/github/followers/rangesatti-ux?style=for-the-badge&color=5A189A"/>
+  <img src="https://img.shields.io/github/stars/rangesatti-ux?style=for-the-badge&color=3C096C"/>
 </p>
 
 ---
 
-# About Me
+# About
 
-I am a **B.Tech Engineering student** passionate about **Software Engineering, Robotics, Artificial Intelligence, Full Stack Development, and Product Engineering**.
+```yaml
+Name: Naga Gopi Rangisetti
+Role: Software Developer | Robotics & AI Enthusiast
+Education: B.Tech @ Sanjay Ghodawat University
+Focus:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Robotics Engineering
+  - Product Development
+Current_Goal:
+  Building scalable software and modern AI-driven solutions
+````
 
-My focus is on building practical technology solutions while continuously exploring **AI systems, LLMs, robotics automation, modern software architecture, and scalable digital products**.
+I am an engineering student passionate about building modern software systems and exploring next-generation technologies including **Artificial Intelligence, Robotics, Full Stack Development, and Product Engineering**.
 
-I enjoy transforming ideas into real-world engineering solutions and continuously learning new technologies that improve efficiency, problem-solving, and product experiences.
-
-### Open To
-
-- Software Engineering Opportunities  
-- AI / ML Learning & Collaboration  
-- Full Stack Development Projects  
-- Open Source Contributions  
-- Robotics & Innovation Programs  
-- Hackathons & Engineering Communities  
+My learning journey focuses on practical implementation, innovation, problem-solving, and creating impactful digital experiences with scalable engineering principles.
 
 ---
 
 # Tech Stack
 
-## Languages
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,html,css,js,python,sql" />
-</p>
+### Languages
 
-## Frontend
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,flutter" />
-</p>
+### Frontend Development
 
-## Backend & Databases
+<img src="https://skillicons.dev/icons?i=react,flutter,tailwind"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,firebase,nodejs" />
-</p>
+### Backend & Databases
 
-## Cloud, DevOps & Tooling
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=github,vscode,git,figma,linux" />
-</p>
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=github,git,vscode,figma,linux"/>
+
+</div>
 
 ---
 
 # AI / ML Expertise
 
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| Artificial Intelligence | Intermediate | Exploring AI fundamentals and real-world applications |
-| Large Language Models | Intermediate | Learning prompt engineering and LLM ecosystems |
-| Data Analysis | Beginner–Intermediate | SQL & analytical thinking |
-| Robotics Automation | Intermediate | Robotics design and engineering competitions |
-| Product Engineering | Intermediate | Building practical digital solutions |
+<div align="center">
+
+| Domain                    | Level        | Details                             |
+| ------------------------- | ------------ | ----------------------------------- |
+| Artificial Intelligence   | Intermediate | Exploring practical AI workflows    |
+| LLMs & Prompt Engineering | Intermediate | Learning modern AI ecosystems       |
+| Robotics Engineering      | Intermediate | Robotics competitions & innovation  |
+| Software Engineering      | Intermediate | Product-focused development mindset |
+| Full Stack Development    | Intermediate | Frontend + backend learning         |
+
+</div>
 
 ---
 
-# Featured Projects
+# Engineering Journey
 
 <details>
-<summary><b>🤖 Robotics Engineering Projects</b></summary>
+<summary><b>Robotics & Innovation</b></summary>
 
-### Overview
+<br>
 
-Worked on robotics-focused engineering activities and competitions focused on **design, assembly, and innovation**.
+| Area       | Details                            |
+| ---------- | ---------------------------------- |
+| Focus      | Robotics Design & Assembly         |
+| Experience | Engineering Competitions           |
+| Impact     | Improved technical problem-solving |
+| Learning   | Innovation & implementation        |
 
-| Category | Details |
-|----------|---------|
-| Stack | Robotics, Engineering Concepts |
-| Scale | College Level |
-| Performance | Competition Based |
-| Security | Engineering Safe Practices |
-| Impact | Improved technical and problem-solving skills |
-| Repository | Coming Soon |
-
-### Professional Summary
-
-Designed and assembled robotics systems while participating in engineering-focused competitions and innovation workshops.
+Participated in robotics activities and engineering-focused competitions while continuously improving practical engineering skills.
 
 </details>
 
 <details>
-<summary><b>🧠 AI & LLM Learning Journey</b></summary>
+<summary><b>Artificial Intelligence & LLM Exploration</b></summary>
 
-### Overview
+<br>
 
-Actively learning Artificial Intelligence concepts, prompt engineering, and practical AI workflows.
+| Area      | Details                 |
+| --------- | ----------------------- |
+| Focus     | AI & Prompt Engineering |
+| Learning  | LLM Workflows           |
+| Goal      | Future-ready AI systems |
+| Direction | Product Engineering     |
 
-| Category | Details |
-|----------|---------|
-| Stack | AI, LLMs |
-| Scale | Personal Learning |
-| Performance | Continuous Improvement |
-| Security | Ethical AI Learning |
-| Impact | Expanding engineering capabilities |
-| Repository | Coming Soon |
-
-### Professional Summary
-
-Exploring real-world AI applications, modern tools, and engineering workflows to build future-ready technical expertise.
+Actively learning AI technologies, modern tooling, and scalable software concepts to build next-generation digital solutions.
 
 </details>
 
 <details>
-<summary><b>💻 Full Stack Engineering Learning</b></summary>
+<summary><b>Software Development</b></summary>
 
-### Overview
+<br>
 
-Building skills in frontend, backend, databases, and scalable application architecture.
+| Area     | Details                |
+| -------- | ---------------------- |
+| Frontend | HTML, CSS, JavaScript  |
+| Backend  | Firebase, Node.js      |
+| Database | SQL & MySQL            |
+| Goal     | Full Stack Engineering |
 
-| Category | Details |
-|----------|---------|
-| Stack | HTML, Java, SQL, Firebase |
-| Scale | Learning Projects |
-| Performance | Optimization Focused |
-| Security | Authentication Concepts |
-| Impact | Practical software engineering growth |
-| Repository | Coming Soon |
-
-### Professional Summary
-
-Continuously improving software engineering skills by learning development technologies and engineering best practices.
+Focused on learning modern application development and engineering best practices.
 
 </details>
 
@@ -169,71 +148,43 @@ Continuously improving software engineering skills by learning development techn
 
 # Experience
 
-## Hackathons Club Member  
-**Engineering & Innovation Community**  
-**2025 – Present**
+## Hackathons Club Member
 
-Focused on technical learning, robotics innovation, and practical engineering problem-solving.
+### Engineering & Innovation Community
 
-### Scope of Work
+* Participated in technical workshops and innovation programs
+* Collaborated on robotics-focused engineering activities
+* Explored modern engineering technologies
+* Developed teamwork and technical problem-solving skills
 
-- Participated in technical workshops  
-- Collaborated on robotics activities  
-- Worked on engineering problem-solving  
-- Learned practical implementation techniques  
-
-### Skills
-
-`Robotics` `AI` `Engineering` `Innovation` `Problem Solving`
-
-# Achievements
-
-<p align="center">
-
-| Recognition | Details |
-|-------------|---------|
-| Robotics Competition | Achieved strong performance in Robotics Challenge |
-| Engineering Workshops | Participated in college and state-level workshops |
-| Technical Learning | Continuous learning in AI, Software Engineering & Robotics |
-| Hackathon Community | Active participation in engineering communities |
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Robotics-7B2CBF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI-5A189A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Engineering-3C096C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Innovation-240046?style=flat-square"/>
 </p>
 
 ---
 
-# Certifications
+# Certifications & Learning
 
-## AWS
+<div align="center">
 
-<p align="center">
 <img src="https://img.shields.io/badge/AWS-Learning_Path-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Oracle-SQL_Development-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-Networking-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPTEL-Engineering-E8B923?style=for-the-badge"/>
 
-## Oracle
-
-<p align="center">
-<img src="https://img.shields.io/badge/Oracle-SQL_Learning-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
-
-## Cisco
-
-<p align="center">
-<img src="https://img.shields.io/badge/Cisco-Networking_Learning-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
-</p>
-
-## NPTEL
-
-<p align="center">
-<img src="https://img.shields.io/badge/NPTEL-Engineering_Learning-5E35B1?style=for-the-badge"/>
-</p>
+</div>
 
 ---
 
 # Coding Profiles
 
-<p align="center">
+<div align="center">
+
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Practice_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
@@ -247,19 +198,21 @@ Focused on technical learning, robotics innovation, and practical engineering pr
 <a href="https://www.codechef.com/">
 <img src="https://img.shields.io/badge/CodeChef-Competitive_Coding-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
-</p>
+
+</div>
 
 ---
 
 # GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rangesatti-ux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8A2BE2&icon_color=7F00FF"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rangesatti-ux&theme=tokyonight&hide_border=true&background=00000000&ring=8A2BE2&fire=7F00FF&currStreakLabel=8A2BE2"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rangesatti-ux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=7B2CBF"/>
+
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=rangesatti-ux&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=7B2CBF&currStreakLabel=9D4EDD"/>
 </p>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangesatti-ux&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8A2BE2"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangesatti-ux&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD"/>
 </p>
 
 ---
@@ -267,7 +220,7 @@ Focused on technical learning, robotics innovation, and practical engineering pr
 # GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rangesatti-ux&theme=algolia&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rangesatti-ux&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -275,15 +228,7 @@ Focused on technical learning, robotics innovation, and practical engineering pr
 # Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rangesatti-ux&theme=react-dark&hide_border=true&bg_color=0D1117&color=8A2BE2&line=7F00FF&point=6A0DAD"/>
-</p>
-
----
-
-# Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/rangesatti-ux/rangesatti-ux/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rangesatti-ux&theme=react-dark&hide_border=true&bg_color=0D1117&color=9D4EDD&line=7B2CBF&point=5A189A"/>
 </p>
 
 ---
@@ -292,60 +237,53 @@ Focused on technical learning, robotics innovation, and practical engineering pr
 
 ```yaml
 Learning:
-  - Full Stack Development
   - Artificial Intelligence
-  - Robotics Engineering
-  - SQL & Databases
-  - Software Engineering Concepts
+  - Full Stack Engineering
+  - Robotics Systems
+  - Product Development
 
 Building:
-  - Strong Engineering Foundation
-  - Open Source Contributions
-  - Modern Development Skills
+  - Engineering Skills
+  - Open Source Presence
+  - Strong Developer Portfolio
 
 Exploring:
-  - AI / ML
-  - Large Language Models
-  - Product Engineering
-  - Scalable Applications
+  - LLM Ecosystems
+  - AI Workflows
+  - Scalable Software Systems
 
 Open_To:
   - Collaborations
-  - Engineering Opportunities
   - Hackathons
-  - Technical Communities
-````
-
----
-
-# Connect
-
-<p align="center">
-<a href="mailto:rangesatti@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-rangesatti%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/naga-gopi-rangisetti">
-<img src="https://img.shields.io/badge/LinkedIn-Naga_Gopi_Rangisetti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/rangesatti-ux">
-<img src="https://img.shields.io/badge/GitHub-rangesatti--ux-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/rangesatti-ux">
-<img src="https://img.shields.io/badge/Portfolio-GitHub_Profile-6A0DAD?style=for-the-badge&logo=githubpages&logoColor=white"/>
-</a>
-</p>
-
----
-
-<p align="center">
-<i>"Engineering meaningful solutions through continuous learning, innovation, and technology."</i>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4B0082,30:6A0DAD,60:7F00FF,100:1E3A8A"/>
-</p>
+  - Engineering Communities
+  - Software Opportunities
 ```
 
+---
+
+# Connect With Me
+
+<p align="center">
+  <a href="mailto:rangesatti@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-rangesatti%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/naga-gopi-rangisetti">
+    <img src="https://img.shields.io/badge/LinkedIn-Naga_Gopi_Rangisetti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/rangesatti-ux">
+    <img src="https://img.shields.io/badge/GitHub-rangesatti--ux-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Engineering modern digital experiences through innovation, learning, and technology."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050816,25:240046,50:5A189A,75:7B2CBF,100:3C096C"/>
+</p>
+```
